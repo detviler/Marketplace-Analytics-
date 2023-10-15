@@ -1,4 +1,4 @@
---- First, thank you mam for the code review. The plan is to create 5 data_tables to review sellers activity on an "online marketplace" the name of the project is "marketplace_analytics" 
+---The plan is to create 5 data_tables to review sellers activity on an "online marketplace" the name of the project is "marketplace_analytics" 
 --- DB name: marketplace_analytics, table alias has been used to be consistent first two letters are used. 2 primary keys are defined (seller_id, product_id) & Foreign keys are declared 4 tables 
 --- Table 1: sellers: This have seller specific details & seller_id will act as the Primary key
 --- Table 2: products: all product specific data here, product_id is primary key as I wanted all no duplicacy of product each entry is stand-alone
